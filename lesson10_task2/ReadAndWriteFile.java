@@ -1,4 +1,4 @@
-package lesson10_task1;
+package lesson10_task2;
 
 import java.io.*;
 import java.util.Map;
